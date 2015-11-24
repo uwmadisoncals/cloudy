@@ -1,0 +1,15 @@
+/** Superfish for night skin **/
+
+ul.sf-menu {border-bottom:#c4cdd2 1px solid;}
+.sf-menu li a {color:#c0d9e4;}
+.sf-menu a, .sf-menu a:visited {color:#c0d9e4;}
+.sf-menu li li {background:#072131; border-bottom:#c4cdd2 1px solid; border-left:#c4cdd2 1px solid; border-right:#c4cdd2 1px solid;}
+.sf-menu li li a, .sf-menu li li a:visited {color:#c0d9e4;}
+.sf-menu li li a:hover {background:#08161f;}
+.sf-menu li li li {background:#072131;}
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {color:#fff;}
+.sf-menu li li:hover, .sf-menu li li.sfHover {color:#c0d9e4; background:#08161f;}
+.sf-menu li li a:focus, .sf-menu li li a:hover, .sf-menu li li a:active {color:#fff;} 
+.sf-menu li ul {border-top:#092d43 1px solid;}
+.sf-menu li ul li ul {border-top:#c4cdd2 1px solid;}
+.sf-menu li li.current-cat , .sf-menu li li.current_page_item {background:#08161f;}
